@@ -1,0 +1,429 @@
+header {
+  display: block;
+  background-color: navy;
+  color: white;
+  padding-left: 15%;
+  padding-top: 3%;
+  padding-bottom: 5;
+  height: 300px;
+  
+}
+
+header a {
+  margin-left: 50px;
+margin: left 5px;
+  color: white;
+  cursor: pointer;
+  font-size: 17;
+  border-radius: 10%;
+  text-decoration: none;
+}
+
+header a:hover{
+    background-color:mediumblue;
+  }
+#Stays{
+  width: 120px ;height :40px  ; border-radius:20px; background-color:navy; color: white;font-size: 20;}
+
+.booking {
+  display: inline;
+  font-size: 27;
+  font-weight: 800;
+}
+
+.form1 {
+  display: inline;
+  margin-left: 700px;
+  border: none;
+}
+
+#buttum {
+  width: 150px;
+  height: 40;
+  background-color: navy;
+  border: 1px solid white;
+  cursor: pointer;
+  font-size: 17;
+  font-weight: 200px;
+
+}
+
+#buttum2 , #buttum3 {
+  width: 100px;
+  height: 40px;
+  cursor: pointer;
+  font-size: 17;
+  font-weight: 200px;
+
+}
+
+.class1 {
+  display: inline-block;
+  right: 500px;
+}
+#work  {
+  margin: 10px;
+
+
+}
+
+h1 {
+  font-family: Arial;
+  padding-top: 25px;
+  font-size: 45;
+}
+
+.para1 {
+  font-weight: 200;
+  font-size: 19;
+  font-family: Arial;
+}
+
+li {
+  display: inline;
+  font-weight: bold;
+  color: white;
+}
+
+#ul {
+  display: inline;
+  text-decoration-color: white;
+}
+
+#fieldset1 {
+  padding-top: 20px;
+  padding-bottom: 150px;
+  border: none;
+  
+}
+
+#fieldset1 input {
+  width: 150px;
+  height: 50;
+  margin: -2px;
+  border: 4px solid orange;
+
+}
+
+#covid19 {
+  margin: 50px;
+  width: 80%;
+  height: 30px;
+  margin: right 10px;
+  margin-left: 150px;
+  padding-top: 20px;
+
+}
+
+.offers {
+  font-size: 27;
+  color: black;
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+
+.deals {
+  font-style: Arial;
+  font-size: 18;
+  color:gray;
+  margin-left: 20px;
+  margin-bottom:20px ;
+}
+
+#offer1 {
+  display: inline-block;
+  background-image: url('images/foto1.jpeg');
+  color: #FFFFFF;
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 600px;
+  line-break: 50px;
+  margin-right: 50px;
+  margin-left: 40px;
+  margin-bottom: 20px;
+  padding-top: 100px;
+  font-size: 18;
+}
+
+#offer1 input {
+  margin-top: 30px;
+  background-color: blue;
+  font-size: bold white;
+  height: 30px;
+}
+
+#offer2 {
+  display: inline-block;
+  background-image: url('images/Photo.jpg');
+  color: #FFFFFF;
+  background-repeat: no-repeat;
+  height: 150px;
+  width: 600px;
+  line-break: 50px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  padding-top: 100px;
+  padding-left: 40px;
+  font-size: 18;
+}
+
+#offer2 input {
+  margin-top: 30px;
+  background-color: blue;
+  font-size: bold white;
+  height: 30px;
+  ;
+}
+.con1{
+  float: left;
+  text-align: center;
+  margin-left: 30px;
+
+}
+h2{
+  font-size: 20;
+  font-weight: 1000;
+  margin-left: 20px;
+}
+h3{
+  font-size: 24;
+}
+
+.egy2{
+  float: left;
+  margin: 25px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#egypt1 a {
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;}
+  
+  #egypt2 a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;}
+    #egy2{
+      width:350px;
+      height: 150px;
+    }
+    
+   .div2 a {
+    text-decoration: none;
+  color: black;
+  font-weight: bolder;}
+
+   
+  
+.container1{
+  float: left;
+   margin-bottom:10px;
+margin-left: 20px;
+margin-right: 0%;
+}
+
+.container1 {
+  position: relative;
+  color: white;
+  display:inline-block}
+
+
+.top-left {
+
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  font-size: 27;
+  font-weight:bolder;
+}
+
+.TOP {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  font-size: 27;
+  font-weight:bolder;
+}
+
+.top {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+  font-size: 27;
+  font-weight:bolder;
+}
+
+.container5 {
+float: left;
+margin-left: 30px;
+margin-right: 20px;
+text-align: center;
+}
+
+.container2{
+  float: left;
+  margin: 30px;
+}
+#paragraph1{
+  display: inline-block;
+  background-image: url('images/trip1.jpg');
+  color: whitesmoke;
+  background-repeat: no-repeat;
+  background-size:cover; 
+  height: 150px; width: 600;
+  padding-top: 120px; padding-left: 50pxs;
+  margin-top: 10px;
+  margin-left: 70px;
+  font-size: 18;
+
+}
+
+#paragraph2{
+  display: inline-block;
+  background-image: url('images/trip5.jpg');
+  color: whitesmoke;
+  background-repeat: no-repeat;
+  background-size:cover; 
+  height: 150px; width: 600;
+  padding-top: 120px; padding-left: 50pxs;
+  margin-top: 10px;
+  margin-left: 70px;
+  margin-right:-2px ;
+  font-size: 18;
+  font-size: 18;
+  font-variant:inherit;
+
+}
+  
+#homes{
+  font: 400 ;
+  font-size: 22;
+  margin-left: 25px;
+  font-weight:bolder;
+}
+#regions{
+font: 300;
+border-radius: 30;
+}
+.img4{
+  width: 350px; height: 200px;
+}
+.container3{
+  float: left;
+  margin-left: 20px;
+  text-align: left;
+}
+.mydiv0 {
+  background-color:midnightblue;
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+ padding-top:5px; padding-bottom: 40px;
+
+}
+h4{
+  font-size:27;
+  font-weight: normal;
+}
+.ul2 li a{
+color: white;
+margin: 12px;
+
+}
+
+#subscribe {
+  width: 150px;
+  height: 50px;
+  background-color:rgb(37, 37, 232);
+  font-size: bold white;
+  text-align: center;
+}
+#buttum7 {
+  height: 50px;
+  width: 350px;
+}
+
+.mydiv3{
+  color: white;
+  background-color: blue;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top:15 ;
+
+}
+
+#buttum8 {
+  height: 35px;
+  width: 200px;
+  background-color: blue;
+  text-align: center;
+  font : 15 white ;
+}
+
+mydiv0 input{
+  font: 20 blue;
+}
+
+.mydiv {
+  color: blue; 
+  padding-bottom:50px;
+  padding-top:20px ;
+}
+.mydiv1 {
+  float: left;
+  margin: 30px;
+  margin-top: 0px;
+}
+.fieldset2 {
+  background-image: url(images/maps.png);
+  width: 80%;
+  height: 180px;
+  margin-left:150px;
+  margin-top:0px; 
+  line-height: 40px;
+
+
+}
+.fieldset2 input{
+  color: blue;
+  width: 70px; height: 40px;
+  font-weight: bold;
+}
+.mydiv4 {
+  float: left;
+  margin: 30px;
+}
+
+
+footer .mydiv1 ul li a{
+  color:royalblue;
+  text-decoration: none;
+  font-size: 15;
+  font-weight: 100;
+}
+
+footer{
+
+  margin-left: 100px;
+  color :black;
+}
+
+.img {
+  margin: left 40px;
+  padding: 20px;
+}
+
+.copyright {
+  font-size: 13;
+}
+.final {
+  margin-left: 30%;
+}
+h5{
+font-weight: 1000;
+font-size:23 ;
+}
